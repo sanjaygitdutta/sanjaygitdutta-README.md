@@ -32,7 +32,7 @@ A Passionate **AI & Data Science Learner** from India and Student of IIT PATNA i
 - AI & Data Science basics  
 
 📫 **How to reach me**
-📧 sanjoydutta1200@email.com  
+📧 sanjoydutta1200@gmail.com  
 
 ⚡ **Fun fact**  
 I mix trading psychology with AI thinking 😄  
