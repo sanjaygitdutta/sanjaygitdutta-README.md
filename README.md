@@ -2,7 +2,7 @@ Hi 👋, I'm Sanjay Dutta
 ![Profile views](https://komarev.com/ghpvc/?username=SanjayDutta&label=Profile%20views&color=0e75b6&style=flat)
 
 A Passionate **AI & Data Science Learner** from India and Student of IIT PATNA in filed of Artificial inteligence & Cybersecurity(BS-MS)
-**Professional Stock Market Trader** with 3+ years of experience 📈  
+**Professional Stock Market Trader** with 3+ years of experience 📈 and Always try to execute a new creative idea and implementing AI in it.
 
 ---
 
@@ -40,7 +40,7 @@ I mix trading psychology with AI thinking 😄
 ---
 
 ### 🌐 Connect with me:
-- 🔗 LinkedIn: https://linkedin.com/in/iamsanjaydutta  
+- 🔗 LinkedIn: https://www.linkedin.com/in/iamsanjoydutta/
 - 🌍 Portfolio: Coming Soon 🚧  
 
 ---
